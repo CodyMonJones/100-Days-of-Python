@@ -21,4 +21,4 @@ for symbol in range(0, symbol_count):
     password_list.append(symbols[random.randint(0, len(symbols) - 1)])
 
 random.shuffle(password_list)
-print(password_string.join(password_list))    
+print(f"Your password is: {password_string.join(password_list)}")    
