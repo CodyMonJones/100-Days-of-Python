@@ -1,0 +1,2 @@
+1. Add file I/O with larger list of words
+2. Better UI with Tkinter possibly
