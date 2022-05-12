@@ -92,4 +92,3 @@ while not winner:
     elif "_" not in blanks_list:
         winner = True
         print(f"Congratulations you win! The word was {word_to_guess}!")
-        break
