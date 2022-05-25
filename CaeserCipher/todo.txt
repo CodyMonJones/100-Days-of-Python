@@ -1,0 +1,1 @@
+DRY..Improve code to reduce repetition
