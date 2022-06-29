@@ -23,4 +23,4 @@ for bid in bids:
     if bids[bid] > highest_bid:
         highest_bid = bids[bid]
 print(f"The highest bid was {highest_bid} by {bid}") 
-print("yay")          
+         
